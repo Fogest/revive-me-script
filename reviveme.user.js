@@ -5,8 +5,8 @@
 // @description  Send revive request to Central Hospital
 // @author       Jox [1714547]
 // @match        https://www.torn.com/*
-// @updateURL    https://github.com/Fogest/revive-me-script/raw/refs/heads/master/reviveme.user.js
-// @downloadURL  https://github.com/Fogest/revive-me-script/raw/refs/heads/master/reviveme.user.js
+// @updateURL    https://github.com/Fogest/revive-me-script/raw/master/reviveme.user.js
+// @downloadURL  https://github.com/Fogest/revive-me-script/raw/master/reviveme.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_info
