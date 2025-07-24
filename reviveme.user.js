@@ -235,7 +235,7 @@ opacity: 1;
         torn_player_id: PlayerID,
         torn_player_name: PlayerName,
         torn_player_country: Country.title,
-        app_info: `Nuke Revive Me Userscript #test v${GM_info.script.version}`,
+        app_info: `Nuke Revive Me Userscript v${GM_info.script.version}`,
       };
 
       const formData = Object.keys(postData)
